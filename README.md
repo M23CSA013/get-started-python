@@ -1,4 +1,5 @@
-# Getting Started with Python on IBM ClouiHi I'm Manaswi!!! M23CSA013!!!iHi I'm Manaswi!!! M23CSA013!!!
+# Getting Started with Python on IBM Cloud
+Hi! This is a commit!
 
 To get started, we'll take you through a sample Python Flask app, help you set up a development environment, deploy to IBM Cloud and add a Cloudant database.
 
